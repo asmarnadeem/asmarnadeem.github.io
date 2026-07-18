@@ -1,0 +1,12 @@
+/* TEAM */
+  Researcher: Asmar Nadeem
+  Role: Research Fellow in Multimodal and Spatial AI
+  Affiliation: CVSSP, University of Surrey
+  Site: https://asmarnadeem.github.io/
+  Scholar: https://scholar.google.com/citations?user=oF79v5MAAAAJ&hl=en
+  GitHub: https://github.com/asmarnadeem
+
+/* SITE */
+  Purpose: Academic profile, publications, and open-source code
+  Last update: 2026-07
+  Standards: HTML5, CSS3, Schema.org JSON-LD
