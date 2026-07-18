@@ -7,7 +7,6 @@
 - Role: Research Fellow in Multimodal and Spatial AI
 - Affiliation: Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey, United Kingdom
 - Research areas: multimodal learning, video understanding, causal and temporal reasoning, audio-visual question answering, video captioning, vision-language models, multimodal large language models, spatial AI
-- Metrics as of July 2026: 59 citations, h-index 4, i10-index 3 (Google Scholar)
 - Google Scholar: https://scholar.google.com/citations?user=oF79v5MAAAAJ&hl=en
 - GitHub: https://github.com/asmarnadeem
 - University page: https://www.surrey.ac.uk/people/asmar-nadeem
