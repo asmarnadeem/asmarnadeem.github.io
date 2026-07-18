@@ -9,6 +9,8 @@
 - Research areas: multimodal learning, video understanding, causal and temporal reasoning, audio-visual question answering, video captioning, vision-language models, multimodal large language models, spatial AI
 - Google Scholar: https://scholar.google.com/citations?user=oF79v5MAAAAJ&hl=en
 - GitHub: https://github.com/asmarnadeem
+- DBLP: https://dblp.org/pid/344/1802.html
+- LinkedIn: https://www.linkedin.com/in/asmarnadeem
 - University page: https://www.surrey.ac.uk/people/asmar-nadeem
 - Website: https://asmarnadeem.github.io/
 
