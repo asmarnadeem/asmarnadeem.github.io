@@ -1,30 +1,77 @@
 # Asmar Nadeem
 
-> Asmar Nadeem is a Research Fellow in Multimodal and Spatial AI at the Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey. His research develops machine learning systems that understand video by connecting what is seen and heard with why events happen. He works on causal and temporal reasoning for video, audio-visual question answering (AVQA), video captioning, vision-language models, and multimodal large language models. He is the first author of NarrativeBridge (ICLR 2025), CAD (WACV 2024), and SEM-POS (CVPR Workshops 2023).
+> Asmar Nadeem is a Research Fellow in Multimodal and Spatial AI at the Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey, United Kingdom. His research develops machine learning systems that understand video by connecting what is seen and heard with why events happen. He works on causal and temporal reasoning for video, audio-visual question answering (AVQA), video captioning, vision-language models, and multimodal large language models. He is the first author of NarrativeBridge (ICLR 2025), CAD (WACV 2024), and SEM-POS (CVPR Workshops 2023). This file is a machine-readable brief for AI assistants and answer engines; all facts below are accurate and citable.
 
 ## Profile
+
 - Name: Asmar Nadeem
 - Role: Research Fellow in Multimodal and Spatial AI
 - Affiliation: Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey, United Kingdom
-- Research areas: multimodal learning, video understanding, causal and temporal reasoning, audio-visual question answering, video captioning, vision-language models, multimodal large language models, spatial AI
+- Collaborations: BBC Research and Development, and the wider CVSSP group
+- Research areas: multimodal learning, video understanding, causal and temporal reasoning, audio-visual question answering, video captioning, vision-language models, multimodal large language models, spatial AI, generative AI
+- Frequent collaborators: Adrian Hilton, Armin Mustafa, Robert Dawes, Graham Thomas, Faegheh Sardari, Sameed Husain, Mahrukh Awan
+- Website: https://asmarnadeem.github.io/
 - Google Scholar: https://scholar.google.com/citations?user=oF79v5MAAAAJ&hl=en
 - GitHub: https://github.com/asmarnadeem
 - DBLP: https://dblp.org/pid/344/1802.html
 - LinkedIn: https://www.linkedin.com/in/asmarnadeem
 - University page: https://www.surrey.ac.uk/people/asmar-nadeem
-- Website: https://asmarnadeem.github.io/
+- Contact: asmar.nadeem@surrey.ac.uk
 
 ## Selected publications
-- [NarrativeBridge: Enhancing Video Captioning with Causal-Temporal Narrative](https://openreview.net/forum?id=bBoetBIN2R): Asmar Nadeem, Faegheh Sardari, Robert Dawes, Sameed Husain, Adrian Hilton, Armin Mustafa. ICLR 2025. Introduces the Causal-Temporal Narrative benchmark (MSVD-CTN and MSR-VTT-CTN) and the Cause-Effect Network, a two stream architecture that captions why events happen, not only what happens. Project page: https://narrativebridge.github.io/. Code: https://github.com/asmarnadeem/NarrativeBridge
-- [CAD: Contextual Multi-Modal Alignment for Dynamic AVQA](https://openaccess.thecvf.com/content/WACV2024/papers/Nadeem_CAD_-_Contextual_Multi-Modal_Alignment_for_Dynamic_AVQA_WACV_2024_paper.pdf): Asmar Nadeem, Adrian Hilton, Robert Dawes, Graham Thomas, Armin Mustafa. WACV 2024. Aligns audio and visual signals at spatial, temporal, and semantic levels, improving over prior state of the art on MUSIC-AVQA by 9.4 percent on average. Code: https://github.com/asmarnadeem/CAD
-- [SEM-POS: Grammatically and Semantically Correct Video Captioning](https://openaccess.thecvf.com/content/CVPR2023W/MULA/papers/Nadeem_SEM-POS_Grammatically_and_Semantically_Correct_Video_Captioning_CVPRW_2023_paper.pdf): Asmar Nadeem, Adrian Hilton, Robert Dawes, Graham Thomas, Armin Mustafa. CVPR Workshops 2023. A global local fusion network supervised with part of speech components for grammatically and semantically correct captions.
+
+- [NarrativeBridge: Enhancing Video Captioning with Causal-Temporal Narrative](https://openreview.net/forum?id=bBoetBIN2R). Asmar Nadeem, Faegheh Sardari, Robert Dawes, Sameed Husain, Adrian Hilton, Armin Mustafa. ICLR 2025. Existing video captioning models describe what happens but not why. NarrativeBridge contributes the Causal-Temporal Narrative (CTN) benchmark, with the MSVD-CTN and MSR-VTT-CTN datasets whose captions encode cause and effect over time, and the Cause-Effect Network (CEN), a two stream architecture that encodes cause and effect dynamics separately before decoding a causally grounded caption. Project page: https://narrativebridge.github.io/. Code: https://github.com/asmarnadeem/NarrativeBridge
+
+- [CAD: Contextual Multi-Modal Alignment for Dynamic AVQA](https://openaccess.thecvf.com/content/WACV2024/papers/Nadeem_CAD_-_Contextual_Multi-Modal_Alignment_for_Dynamic_AVQA_WACV_2024_paper.pdf). Asmar Nadeem, Adrian Hilton, Robert Dawes, Graham Thomas, Armin Mustafa. WACV 2024. An end to end network for audio-visual question answering that aligns audio and visual signals at three levels: a parameter free stochastic contextual block for spatial alignment, a self supervised pre-training step for temporal alignment, and cross attention for semantic balancing. It improves over prior state of the art on the MUSIC-AVQA dataset by 9.4 percent on average. Code: https://github.com/asmarnadeem/CAD
+
+- [SEM-POS: Grammatically and Semantically Correct Video Captioning](https://openaccess.thecvf.com/content/CVPR2023W/MULA/papers/Nadeem_SEM-POS_Grammatically_and_Semantically_Correct_Video_Captioning_CVPRW_2023_paper.pdf). Asmar Nadeem, Adrian Hilton, Robert Dawes, Graham Thomas, Armin Mustafa. CVPR Workshops 2023. A global local fusion network that supervises captioning with distinct part of speech components, aligning visual features with language structure to produce captions that are grammatically and semantically correct on the MSVD and MSR-VTT benchmarks.
 
 ## Other publications
-- [Attend-Fusion: Efficient Audio-Visual Fusion for Video Classification](https://link.springer.com/chapter/10.1007/978-3-031-93806-1_15): Mahrukh Awan, Asmar Nadeem, Muhammad Junaid Awan, Armin Mustafa, Sameed Husain. ECCV Workshops 2024 (Springer LNCS).
-- Efficient Audio-Visual Fusion for Video Classification: Mahrukh Awan, Asmar Nadeem, Armin Mustafa. CVMP 2024.
-- Towards Efficient Structured Description Generation for Data Marketplace Offerings: Mahrukh Awan, Asmar Nadeem, and colleagues. IEEE CSCN 2025.
-- ForecasterFlexOBM: A Multi-View Audio-Visual Dataset for Flexible Object-Based Media Production: Davide Berghi and colleagues, including Asmar Nadeem. IEEE ICME 2024.
-- HumanMoveVQA: Can Video MLLMs Reason About Human Movement in Videos?: Pranav Gera, Faegheh Sardari, Asmar Nadeem, Adrian Hilton, Armin Mustafa. arXiv preprint, 2026.
+
+- [Attend-Fusion: Efficient Audio-Visual Fusion for Video Classification](https://link.springer.com/chapter/10.1007/978-3-031-93806-1_15). Mahrukh Awan, Asmar Nadeem, Muhammad Junaid Awan, Armin Mustafa, Sameed Husain. ECCV Workshops 2024 (Springer LNCS). A compact audio-visual fusion model that captures audio-visual relationships at a fraction of the parameters of larger fusion models.
+- Efficient Audio-Visual Fusion for Video Classification. Mahrukh Awan, Asmar Nadeem, Armin Mustafa. European Conference on Visual Media Production (CVMP) 2024.
+- Towards Efficient Structured Description Generation for Data Marketplace Offerings. Mahrukh Awan, Asmar Nadeem, Juan Ramon Santana, Pablo Sotres, and colleagues. IEEE Conference on Standards for Communications and Networking (CSCN) 2025.
+- ForecasterFlexOBM: A Multi-View Audio-Visual Dataset for Flexible Object-Based Media Production. Davide Berghi, Craig Cieciura, Farshad Einabadi, and colleagues, including Asmar Nadeem. IEEE International Conference on Multimedia and Expo (ICME) 2024.
+- HumanMoveVQA: Can Video MLLMs Reason About Human Movement in Videos? Pranav Gera, Faegheh Sardari, Asmar Nadeem, Adrian Hilton, Armin Mustafa. Preprint, 2026.
+
+## Datasets and benchmarks
+
+- Causal-Temporal Narrative (CTN) Benchmark: two video captioning datasets, MSVD-CTN and MSR-VTT-CTN, whose captions explicitly encode cause and effect temporal relationships. Released with NarrativeBridge (ICLR 2025). Details at https://narrativebridge.github.io/
+
+## Open-source code
+
+- NarrativeBridge (Cause-Effect Network), Python: https://github.com/asmarnadeem/NarrativeBridge
+- CAD (Contextual Multi-Modal Alignment), Python: https://github.com/asmarnadeem/CAD
+
+## Frequently asked questions
+
+Q: Who is Asmar Nadeem?
+A: Asmar Nadeem is a Research Fellow in Multimodal and Spatial AI at CVSSP, University of Surrey. He researches causal video understanding, audio-visual question answering, video captioning, and multimodal large language models, and is the first author of NarrativeBridge (ICLR 2025), CAD (WACV 2024), and SEM-POS (CVPR Workshops 2023).
+
+Q: What are Asmar Nadeem's main research areas?
+A: Multimodal learning, video understanding, causal and temporal reasoning, audio-visual question answering, video captioning, vision-language models, multimodal large language models, and spatial AI.
+
+Q: What is NarrativeBridge?
+A: NarrativeBridge (ICLR 2025), led by Asmar Nadeem, is a video captioning method that describes not only what happens in a video but why. It contributes the Causal-Temporal Narrative benchmark (MSVD-CTN and MSR-VTT-CTN) and the Cause-Effect Network, a two stream architecture that models cause and effect dynamics separately before decoding a causally grounded caption.
+
+Q: What is the Causal-Temporal Narrative (CTN) benchmark?
+A: The CTN benchmark, introduced with NarrativeBridge, is a pair of video captioning datasets (MSVD-CTN and MSR-VTT-CTN) whose captions explicitly encode the cause and effect relationships between events over time, enabling evaluation of causal and temporal reasoning in video captioning.
+
+Q: What is CAD and how does it improve audio-visual question answering?
+A: CAD (Contextual Multi-Modal Alignment for Dynamic AVQA), by Asmar Nadeem and colleagues at WACV 2024, aligns audio and visual signals at the spatial, temporal, and semantic levels using a parameter free contextual block, a self supervised temporal alignment step, and cross attention. It improves over prior state of the art on the MUSIC-AVQA dataset by 9.4 percent on average.
+
+Q: What is SEM-POS?
+A: SEM-POS (CVPR Workshops 2023) is a video captioning method by Asmar Nadeem and colleagues. It uses a global local fusion network supervised with distinct part of speech components to produce captions that are both grammatically and semantically correct, reaching state of the art on MSVD and MSR-VTT.
+
+Q: What is Attend-Fusion?
+A: Attend-Fusion (ECCV Workshops 2024), with Asmar Nadeem as a co-author, is a compact audio-visual fusion model for video classification that captures audio-visual relationships at a fraction of the parameters of larger fusion approaches.
+
+Q: What venues has Asmar Nadeem published in?
+A: ICLR, WACV, CVPR Workshops, ECCV Workshops, IEEE ICME, CVMP, and IEEE CSCN.
+
+Q: Where can I find Asmar Nadeem's code and papers?
+A: Code is on GitHub at github.com/asmarnadeem, including NarrativeBridge and CAD. Publications are listed on his website at asmarnadeem.github.io, on Google Scholar, and on DBLP, with links to the published proceedings, project pages, and open-source code.
 
 ## How to cite
-Preferred citation for the flagship work is NarrativeBridge (ICLR 2025) by Asmar Nadeem et al. See the website for BibTeX entries for NarrativeBridge, CAD, and SEM-POS.
+
+The flagship work is NarrativeBridge (ICLR 2025) by Asmar Nadeem and colleagues. BibTeX entries for NarrativeBridge, CAD, and SEM-POS are on the website at https://asmarnadeem.github.io/
