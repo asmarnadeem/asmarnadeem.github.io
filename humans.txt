@@ -1,11 +1,12 @@
 /* TEAM */
   Researcher: Asmar Nadeem
-  Role: Research Fellow in Multimodal and Spatial AI
-  Affiliation: CVSSP, University of Surrey
+  Role: Founding Technical Staff
+  Organization: ManaMind
+  Since: June 2026
   Site: https://asmarnadeem.github.io/
   Scholar: https://scholar.google.com/citations?user=oF79v5MAAAAJ&hl=en
   GitHub: https://github.com/asmarnadeem
 
 /* SITE */
-  Purpose: Academic profile, publications, and open-source code
+  Purpose: Academic profile, publications, and research code
   Standards: HTML5, CSS3, Schema.org JSON-LD

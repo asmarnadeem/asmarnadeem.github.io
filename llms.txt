@@ -1,13 +1,14 @@
 # Asmar Nadeem
 
-> Asmar Nadeem is a Research Fellow in Multimodal and Spatial AI at the Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey, United Kingdom. His research develops machine learning systems that understand video by connecting what is seen and heard with why events happen. He works on causal and temporal reasoning for video, audio-visual question answering (AVQA), video captioning, vision-language models, and multimodal large language models. He is the first author of NarrativeBridge (ICLR 2025), CAD (WACV 2024), and SEM-POS (CVPR Workshops 2023). This file is a machine-readable brief for AI assistants and answer engines; all facts below are accurate and citable.
+> Asmar Nadeem is Founding Technical Staff at ManaMind, where he has worked since June 2026. Previously, he was a Research Fellow in Multimodal and Spatial AI at CVSSP, University of Surrey. His research spans causal and temporal video reasoning, video captioning, audio-visual question answering, and multimodal language models. He is the first author of Causal-VLM (NeurIPS 2026), NarrativeBridge (ICLR 2025), CAD (WACV 2024), and SEM-POS (CVPR Workshops 2023).
 
 ## Profile
 
 - Name: Asmar Nadeem
-- Role: Research Fellow in Multimodal and Spatial AI
-- Affiliation: Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey, United Kingdom
-- Collaborations: BBC Research and Development, and the wider CVSSP group
+- Current role: Founding Technical Staff at ManaMind, since June 2026
+- Company: https://manamind.ai/
+- Previous role: Research Fellow in Multimodal and Spatial AI at CVSSP, University of Surrey
+- Research collaborations: BBC Research and Development and the CVSSP group, University of Surrey
 - Research areas: multimodal learning, video understanding, causal and temporal reasoning, audio-visual question answering, video captioning, vision-language models, multimodal large language models, spatial AI, generative AI
 - Frequent collaborators: Adrian Hilton, Armin Mustafa, Robert Dawes, Graham Thomas, Faegheh Sardari, Sameed Husain, Mahrukh Awan
 - Website: https://asmarnadeem.github.io/
@@ -19,6 +20,8 @@
 - Contact: asmar.nadeem@surrey.ac.uk
 
 ## Selected publications
+
+- [Causal-VLM: Dense Causal Captioning in Videos](https://causalvlm.github.io/). Asmar Nadeem, Mahrukh Awan, Muhammad Awais, Robert Dawes, Adrian Hilton, Armin Mustafa. NeurIPS 2026. Causal-VLM generates event captions, timestamps, and a graph of observed prerequisite relationships in long videos. It introduces the Dense Causal Captions (DCC) benchmark built on ActivityNet and YouCook2. Paper: https://causalvlm.github.io/assets/paper/Causal-VLM.pdf. Code: https://github.com/causalvlm/CausalVLM. Model weights: https://huggingface.co/causalvlm/CausalVLM. DCC labels: https://huggingface.co/datasets/causalvlm/DCC
 
 - [NarrativeBridge: Enhancing Video Captioning with Causal-Temporal Narrative](https://openreview.net/forum?id=bBoetBIN2R). Asmar Nadeem, Faegheh Sardari, Robert Dawes, Sameed Husain, Adrian Hilton, Armin Mustafa. ICLR 2025. Existing video captioning models describe what happens but not why. NarrativeBridge contributes the Causal-Temporal Narrative (CTN) benchmark, with the MSVD-CTN and MSR-VTT-CTN datasets whose captions encode cause and effect over time, and the Cause-Effect Network (CEN), a two stream architecture that encodes cause and effect dynamics separately before decoding a causally grounded caption. Project page: https://narrativebridge.github.io/. Code: https://github.com/asmarnadeem/NarrativeBridge
 
@@ -36,20 +39,26 @@
 
 ## Datasets and benchmarks
 
+- Dense Causal Captions (DCC): event captions, temporal intervals, and observed prerequisite relationships for videos from ActivityNet and YouCook2. Released with Causal-VLM (NeurIPS 2026). Labels: https://huggingface.co/datasets/causalvlm/DCC
+
 - Causal-Temporal Narrative (CTN) Benchmark: two video captioning datasets, MSVD-CTN and MSR-VTT-CTN, whose captions explicitly encode cause and effect temporal relationships. Released with NarrativeBridge (ICLR 2025). Details at https://narrativebridge.github.io/
 
-## Open-source code
+## Research code
 
+- Causal-VLM and DCC, Python: https://github.com/causalvlm/CausalVLM
 - NarrativeBridge (Cause-Effect Network), Python: https://github.com/asmarnadeem/NarrativeBridge
 - CAD (Contextual Multi-Modal Alignment), Python: https://github.com/asmarnadeem/CAD
 
 ## Frequently asked questions
 
 Q: Who is Asmar Nadeem?
-A: Asmar Nadeem is a Research Fellow in Multimodal and Spatial AI at CVSSP, University of Surrey. He researches causal video understanding, audio-visual question answering, video captioning, and multimodal large language models, and is the first author of NarrativeBridge (ICLR 2025), CAD (WACV 2024), and SEM-POS (CVPR Workshops 2023).
+A: Asmar Nadeem is Founding Technical Staff at ManaMind, where he has worked since June 2026. Previously, he was a Research Fellow in Multimodal and Spatial AI at CVSSP, University of Surrey. His research spans causal and temporal video reasoning, video captioning, audio-visual question answering, and multimodal language models.
 
 Q: What are Asmar Nadeem's main research areas?
 A: Multimodal learning, video understanding, causal and temporal reasoning, audio-visual question answering, video captioning, vision-language models, multimodal large language models, and spatial AI.
+
+Q: What is Causal-VLM?
+A: Causal-VLM, presented at NeurIPS 2026, generates event captions, timestamps, and a graph of observed prerequisite relationships in long videos. It introduces the Dense Causal Captions (DCC) benchmark, extending ActivityNet and YouCook2 with causal annotations. The project page provides the paper, code, model weights, and DCC labels. Project page: https://causalvlm.github.io/
 
 Q: What is NarrativeBridge?
 A: NarrativeBridge (ICLR 2025), led by Asmar Nadeem, is a video captioning method that describes not only what happens in a video but why. It contributes the Causal-Temporal Narrative benchmark (MSVD-CTN and MSR-VTT-CTN) and the Cause-Effect Network, a two stream architecture that models cause and effect dynamics separately before decoding a causally grounded caption.
@@ -67,11 +76,11 @@ Q: What is Attend-Fusion?
 A: Attend-Fusion (ECCV Workshops 2024), with Asmar Nadeem as a co-author, is a compact audio-visual fusion model for video classification that captures audio-visual relationships at a fraction of the parameters of larger fusion approaches.
 
 Q: What venues has Asmar Nadeem published in?
-A: ICLR, WACV, CVPR Workshops, ECCV Workshops, IEEE ICME, CVMP, and IEEE CSCN.
+A: NeurIPS, ICLR, WACV, CVPR Workshops, ECCV Workshops, IEEE ICME, CVMP, and IEEE CSCN.
 
 Q: Where can I find Asmar Nadeem's code and papers?
-A: Code is on GitHub at github.com/asmarnadeem, including NarrativeBridge and CAD. Publications are listed on his website at asmarnadeem.github.io, on Google Scholar, and on DBLP, with links to the published proceedings, project pages, and open-source code.
+A: Code is on GitHub at github.com/asmarnadeem, including NarrativeBridge and CAD. Causal-VLM and DCC code is at https://github.com/causalvlm/CausalVLM. Publications are listed on his website at asmarnadeem.github.io, on Google Scholar, and on DBLP, with links to the published proceedings, project pages, and research code.
 
 ## How to cite
 
-The flagship work is NarrativeBridge (ICLR 2025) by Asmar Nadeem and colleagues. BibTeX entries for NarrativeBridge, CAD, and SEM-POS are on the website at https://asmarnadeem.github.io/
+BibTeX entries for Causal-VLM, NarrativeBridge, CAD, and SEM-POS are on the website at https://asmarnadeem.github.io/
