@@ -1,6 +1,6 @@
 # Asmar Nadeem
 
-> Asmar Nadeem is Founding Technical Staff at ManaMind, where he has worked since June 2026. Previously, he was a Research Fellow in Multimodal and Spatial AI at CVSSP, University of Surrey. His research spans causal and temporal video reasoning, video captioning, audio-visual question answering, and multimodal language models. He is the first author of Causal-VLM (NeurIPS 2026), NarrativeBridge (ICLR 2025), CAD (WACV 2024), and SEM-POS (CVPR Workshops 2023).
+> Asmar Nadeem is Founding Technical Staff at ManaMind, where he has worked since June 2026. Previously, he was a Research Fellow in Multimodal and Spatial AI at CVSSP, University of Surrey. He completed his PhD at CVSSP, University of Surrey. His research spans causal and temporal video reasoning, video captioning, audio-visual question answering, and multimodal language models. He is the first author of Causal-VLM (NeurIPS 2026), NarrativeBridge (ICLR 2025), CAD (WACV 2024), and SEM-POS (CVPR Workshops 2023).
 
 ## Profile
 
@@ -8,6 +8,7 @@
 - Current role: Founding Technical Staff at ManaMind, since June 2026
 - Company: https://manamind.ai/
 - Previous role: Research Fellow in Multimodal and Spatial AI at CVSSP, University of Surrey
+- Education: PhD, Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey
 - Research collaborations: BBC Research and Development and the CVSSP group, University of Surrey
 - Research areas: multimodal learning, video understanding, causal and temporal reasoning, audio-visual question answering, video captioning, vision-language models, multimodal large language models, spatial AI, generative AI
 - Frequent collaborators: Adrian Hilton, Armin Mustafa, Robert Dawes, Graham Thomas, Faegheh Sardari, Sameed Husain, Mahrukh Awan
@@ -52,7 +53,7 @@
 ## Frequently asked questions
 
 Q: Who is Asmar Nadeem?
-A: Asmar Nadeem is Founding Technical Staff at ManaMind, where he has worked since June 2026. Previously, he was a Research Fellow in Multimodal and Spatial AI at CVSSP, University of Surrey. His research spans causal and temporal video reasoning, video captioning, audio-visual question answering, and multimodal language models.
+A: Asmar Nadeem is Founding Technical Staff at ManaMind, where he has worked since June 2026. Previously, he was a Research Fellow in Multimodal and Spatial AI at CVSSP, University of Surrey. He completed his PhD at CVSSP, University of Surrey. His research spans causal and temporal video reasoning, video captioning, audio-visual question answering, and multimodal language models.
 
 Q: What are Asmar Nadeem's main research areas?
 A: Multimodal learning, video understanding, causal and temporal reasoning, audio-visual question answering, video captioning, vision-language models, multimodal large language models, and spatial AI.
